@@ -1,0 +1,12 @@
+#define ID_BEGINNER				10000
+#define ID_INTERMEDIATE			10001
+#define ID_EXPERT				10002
+#define ID_CUSTOM				10003
+#define ID_HALLOFFAME			10004
+#define ID_SETTINGS				10005
+#define ID_ABOUT				10006
+#define ID_QUIT					10007
+#define ID_TIMER1				10008
+#define ID_TIMER2				10009
+#define ID_TIMER3				10010
+#define ID_TIMER_EVENT			10011
